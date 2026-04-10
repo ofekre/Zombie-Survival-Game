@@ -181,7 +181,7 @@ cmake --build out/build/x64-Debug
 | **Ofek Revach** | Developer |
 | **Avia Asulin** | Developer |
 
-*First-year Object-Oriented Programming project*
+*Second-year Object-Oriented Programming project*
 
 ---
 
