@@ -53,7 +53,7 @@ namespace GameConstants
     constexpr int LEVEL_COMPLETE_MULTIPLIER = 50; // score = 50 * level
     
     // Level time limits (in seconds)
-    constexpr float LEVEL_1_TIME = 90.0f;
+    constexpr float LEVEL_1_TIME = 40.0f;
     constexpr float LEVEL_2_TIME = 70.0f;
     constexpr float LEVEL_3_TIME = 50.0f;
     constexpr float DEFAULT_LEVEL_TIME = 60.0f;
@@ -76,7 +76,7 @@ namespace GameConstants
         constexpr char DIGGABLE_FLOOR = '^';  // Shift+6
         constexpr char LADDER = 'H';
         constexpr char POLE = '-';
-    }
+    }//
     
     // Resource paths (relative to resources/textures/ folder)
     namespace Textures
