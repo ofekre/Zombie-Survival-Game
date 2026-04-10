@@ -21,7 +21,7 @@
 
 **Zombie Survival Game** is a classic platformer where you play as a survivor navigating through zombie-infested levels. Collect all the coins, avoid (or outsmart) the enemies, climb ladders, swing across poles, and dig through floors to escape — all before time runs out!
 
-Built as a second-year OOP university project, this game demonstrates solid software engineering principles using **polymorphism, inheritance hierarchies, double-dispatch collision handling**, and a clean **component-based architecture**.
+Built as a university OOP project, this game demonstrates solid software engineering principles using **polymorphism, inheritance hierarchies, double-dispatch collision handling**, and a clean **component-based architecture**.
 
 ---
 
@@ -181,7 +181,7 @@ cmake --build out/build/x64-Debug
 | **Ofek Revach** | Developer |
 | **Avia Asulin** | Developer |
 
-*Second-year Object-Oriented Programming project*
+*Object-Oriented Programming university project*
 
 ---
 
